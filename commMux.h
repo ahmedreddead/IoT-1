@@ -38,7 +38,7 @@
 #ifndef COMM_MUX_H
 #define COMM_MUX_H
 
-#include "Arduino.h"
+//#include "Arduino.h"
 #include "Wire.h"
 #include "SPI.h"
 
